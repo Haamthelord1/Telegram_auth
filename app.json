@@ -21,7 +21,7 @@
     },
     "URL": {
       "description": "The Heroku App URL similar to https://<appname>.herokuapp.com/",
-      "value": "https://example.com/"
+      "value": "https://<appname>.herokuapp.com/"
     },
     "APP_TITLE": {
       "description": "specify a custom app title",
